@@ -1,2 +1,2 @@
 # Site Doctora Isaura
- Site sobre estética for Dra Isaura de Jesus
+ Site sobre estética para Dra Isaura de Jesus.
